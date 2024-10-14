@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Setting up a simple website.
 
-Maybe say a some things about yourself.
+Because why not.
 
-Or maybe what you plan to blog about.
+There is no plan.
